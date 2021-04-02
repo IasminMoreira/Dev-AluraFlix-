@@ -1,0 +1,60 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  text-align:center;
+  background-image: url('https://fsa.zobj.net/crop.php?r=oySdryiis-NfQR6UsgkEiqTgs4gIAdM_NuSsRxNf0JFuPH5zwI1QkSksdAg5YsM6ev48HvszQjqG4XMuyxRQijCCY12_tkpOPl4jBsDA1h3o1ry3qlXpYgsFE1QcVZSU9a5_r8WC-59Xt3HA');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #000000;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #000000;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+a{
+  text-decoration: none;
+}
+
+h2 {
+  color: #f5cd79;
+}
+
+.box {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  color: #000000;
+  font-weight: bolder;
+}
+
+.itens {
+  display: inline-table;
+   margin: 10px 20px;
+}
